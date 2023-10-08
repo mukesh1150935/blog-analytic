@@ -20,7 +20,7 @@ const options = {
         
         servers: [
             {
-                url: "http://localhost:3000/",
+                url: "https://blog-analytics-kncc.onrender.com/",
                 description: "Development server",
             },
         ],
